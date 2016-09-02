@@ -16,7 +16,7 @@ The Documentation includes basically:
 - Database Project
 - Codes 
 - References
-- For more details (Full details actually) see: [LINK](https://)
+- For more details (Full details actually) see: [Documentation Details and Steps (PT-BR)](https://github.com/Code-Work/Documentation/issues/1)
 
 ## Team
 
