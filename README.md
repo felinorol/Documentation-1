@@ -1,4 +1,4 @@
-![Logo College Impacta of Tecnology](http://i.imgur.com/7GGJcSl.jpg "Logo College Impacta of Tecnology")
+<img src="img/logo-fit.jpg" alt="Logo College Impacta of Tecnology" align="center">
 
 # Documentation
 
