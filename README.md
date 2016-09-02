@@ -1,4 +1,6 @@
-<img src="img/logo-fit.jpg" alt="Logo College Impacta of Tecnology" align="center">
+<p align="center">
+  <img src="img/logo-fit.jpg" alt="Logo College Impacta of Tecnology">
+</p>
 
 # Documentation
 
