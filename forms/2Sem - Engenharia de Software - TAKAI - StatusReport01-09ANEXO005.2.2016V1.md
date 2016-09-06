@@ -24,7 +24,7 @@ ID  | Nome:                              | RA:
 ID | Aval.1                   | Aval.2                   | ID | Aval.1                    | Aval.2
 ---|--------------------------|--------------------------|----|---------------------------|---------------------------
 1  | (1) (2) (3) (4) **_(5)_**| (1) (2) (3) (4) **_(5)_**| 2  | <s>(1) (2) (3) (4) (5)</s>| <s>(1) (2) (3) (4) (5)</s>
-3  | (1) (2) (3) (4) **_(5)_**| (1) (2) (3) (4) **_(5)_**| 4  | (1) (2) (3) **_(4)_** (5) | (1) (2) (3) (4) **_(5)_**
+3  | (1) (2) (3) (4) **_(5)_**| (1) (2) (3) (4) **_(5)_**| 4  | (1) (2) (3) (4) **_(5)_** | (1) (2) (3) (4) **_(5)_**
 5  | (1) (2) (3) (4) **_(5)_**| (1) (2) (3) (4) **_(5)_**| 6  | (1) (2) (3) (4) **_(5)_** | (1) (2) (3) (4) **_(5)_** 
 
 > Legenda:
@@ -45,7 +45,7 @@ Status Report                       | 6                      |
 
 Analista: (Usar ID's) | Observação:
 ----------------------|-----------------------------------------------------
-2                     |Ausente da atividade justificada devido ao trabalho
+2                     | Ausente da atividade justificada devido ao trabalho
 1                     | Não participou da atividade como Analista por também ser um Stakeholder envolvido diretamente no negócio do cliente
 4                     | Não fez nenhuma anotação sobre a entrevista
 
